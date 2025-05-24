@@ -5,7 +5,7 @@ local settings = {
 };
 
 local drawing = loadstring(game:HttpGet("https://github.com/GhostDuckyy/UI-Libraries/blob/main/DEADCELL%20REMAKE/misc/extension.lua?raw=true"))();
-local tween = loadstring(game:HttpGet("https://raw.githubusercontent.com/lolpoppyus/utility/refs/heads/main/Tween.lua"))()
+local tween = loadstring(game:HttpGet("https://raw.githubusercontent.com/Zyai-Lua/uipls/refs/heads/main/Tween"))()
 
 -- // UI LIBRARY
 if not isfolder(settings.folder_name) then
